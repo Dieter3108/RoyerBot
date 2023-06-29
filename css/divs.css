@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6/10/2019, 09:23:09 PM
+    Author     : Dieter Lahnstein
+*/
+
+.divPadre {
+    height:100px;
+    width:800px;
+    position: relative;
+    left: 50%;
+     text-align:center;
+    background-color:blue;
+    display: none;
+}
+.divHijo {
+    height:50px;
+    width:400px;
+     margin:0px auto;
+    background-color:red;
+}

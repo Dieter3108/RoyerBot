@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6/11/2019, 02:18:41 PM
+    Author     : Dieter Lahnstein
+*/
+
+.horarioheader{
+    background-color: #ea710b;
+    color:white;
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+td{
+    border-collapse:collapse;
+    border: 2px solid green;
+    font-family: helvetica;
+    font-weight:bold;
+    align:center;
+    height:55px;
+}
+table{
+      border-collapse:collapse;
+    border: 4px solid green;
+    font-family: helvetica;
+    font-weight:bold;
+   position:absolute;
+   left:170px;
+  
+}
+c01{
+    background: black;
+}
